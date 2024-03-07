@@ -1,40 +1,40 @@
-.logo_mobile_black{
-    width: 112px;
-    height: 66px;
-    margin-top: 21px;
-}
-.header-bottom{
-    display: flex;
-    margin-top: 97px;
-    margin-left: 121px;
-}
-.navs{
-    display: flex;
-    width: 240px ;
-  
 
-}
-
-.globe{
-    width: 22px;
-    height: 21px;
-}
-.header-p{
-    width: 130px;
-    height: 32px;
-    font-weight: 400;
-    font-size: 20px;
-    align-items: flex-end;
-}
-.img_135744{
-    width: 22px;
-    height: 22px;
-}
-.calendar_2{
-    width: 20px;
-    height: 22px;
-}
 
 body{
-    background-color: red;
+    background-color: white;
+}
+.proqramma{
+    width: 905px;
+    height: 93px;
+    font-weight: 700;
+    font-size: 55px;
+}
+.prqramma-footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.proqramma-elements{
+    width: 399px;
+    height: 328px;
+    border-radius: 30px;
+    background-color: white;
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 0 0 10px #00000040;
+}
+.proqramma-elements h3{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 11px;
+    margin-left: 20px;
+}
+.proqramma-elements p{
+    font-weight: 400;
+    font-size: 25px;
+    margin-left: 19px;
+    width: 365px;
+    margin-bottom: 23px;
+}
+.last p{
+margin-top: -30px;
 }
