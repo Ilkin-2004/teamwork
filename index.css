@@ -8,7 +8,7 @@
 
 body {
     width: 1440;
-    height: 6575px;
+    height: 6475px;
     font-family: Roboto;
     padding-top: 21px;
     padding-left: 121px;
@@ -354,3 +354,58 @@ background-color: #9DC9C8;
     margin-top: 95px;
     margin-left: -46px;
 }
+footer{
+    padding-top: 50px;
+    padding-left: 121px;
+    margin-left: -121px;
+    height: 390px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.footers-header{
+    display: flex;
+    color: #FFFFFF;
+    width: 115px;
+}
+.footers-header .image-first{
+    width: 115px;
+    height: 68px;
+    margin-right: 739px;
+}
+.num-email{
+    display: block;
+    font-size: 25px;
+}
+.num-email-top{
+    display: flex;
+}
+.num-email-top img{
+    width: 27px;
+    height: 27px;
+    margin-right: 18px;
+}
+.num-email .email img{
+    height: 18px;
+}
+.num-email .email{
+    margin-top: 25px;
+}
+.num-email .email p{
+    margin-top: -10px;
+}
+.footer-logo{
+ margin-top: 30px;    
+}
+.footer-logo img{
+    width: 33px;
+    height: 33px;
+    margin-right: 22px;
+}
+footer .end{
+    margin-top: 146px;
+    font-size: 18px;
+}
+
+
+
+
